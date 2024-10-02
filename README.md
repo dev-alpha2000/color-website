@@ -1,12 +1,9 @@
-## COLORS LANDING PAGE
-COLORS - Color Palettes for Designers
-<br>
-A React based project made for Designers and Developers to find the right color schemes/palettes/gradients and also make their own.
-<br>
-We provide Color Palette & Gradients for Designers. 
-- Thousands of color palettes.
-- Many Color Gradients available. 
-- Create your own custom palette. 
-- Theme Generator.
-<br>
-Live at: https://colors-dc.netlify.app/
+Overview
+This project is a Color Palette Website built using React. It allows users to browse and create color palettes, copy color codes (hex, RGB, HSL), and explore different color shades. The app is designed to help designers, developers, and users easily access and manage color palettes for their projects.
+
+Features
+Color Palette Gallery: Browse a variety of pre-made color palettes.
+Custom Palette Creation: Create your own color palettes by selecting colors.
+Copy Color Codes: Click to copy color codes (hex, RGB, HSL) to the clipboard.
+Color Shades: Explore shades of a selected color.
+Responsive Design: Fully responsive and optimized for mobile, tablet, and desktop views.
