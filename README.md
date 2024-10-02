@@ -56,8 +56,13 @@ You can scroll through different color palettes.
 Clicking a color box will display its shades, and clicking on the color code will copy it to your clipboard.
 
 You can also create new palettes by selecting and saving colors.
-Dependencies
+
+## Dependencies
+
 React: Frontend framework for building the UI.
+
 Chroma.js: For color manipulation (e.g., generating shades, converting between color models).
+
 Axios: (Optional) For fetching color data from external APIs.
+
 CSS or Styled Components: For styling the app.
